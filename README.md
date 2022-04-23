@@ -30,11 +30,3 @@ General
 [<img src = "https://camo.githubusercontent.com/2b3d5d38ef1eb408f65e8d503deae3516cf6d00c1910f801a5cae2449b69566e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d3041363643323f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465">](https://www.linkedin.com/in/mehmetsaliherkan/)
 
 
-
-# My GitHub README
-
-Welcome to my README!
-
-<div align="center">
-    <img src="example.svg" width="400" height="400" alt="css-in-readme">
-</div>
