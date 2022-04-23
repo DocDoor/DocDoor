@@ -22,4 +22,4 @@ Current technologies that I use frequently for Machine learning & deep learning
 ### Other Platforms
 
 Competitive Programming
-https://camo.githubusercontent.com/62865be9aee1d441bb2d4bddc4217e498527426f7dc631adf79ef8d9f717b7f5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4646413131363f7374796c653d666f722d7468652d6261646765266c6f676f3d6c656574636f6465266c6f676f436f6c6f723d7768697465
+<a href="https://www.hackerrank.com/saliherk4n" >
