@@ -1,5 +1,3 @@
-<span style="font-family: 'Lucida Console';">foo</span>
-
 ### Mehmet Salih Erkan | DocDoor
 
 Hey there, this is Mehmet Salih from Turkey!
