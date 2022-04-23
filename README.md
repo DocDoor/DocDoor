@@ -1,7 +1,10 @@
-### Hi there 👋
+### Mehmet Salih Erkan | DocDoor
 
-<img src="https://github-readme-stats.vercel.app/api?username=DocDoor&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+- Hey there, this is Melike from Turkey!
 
+- I am interested in quantum computing, artifical intelligence and mathematics. In addition, I am an amateur artist/graphic designer.
+
+- I (will) mainly work in quantum computing and quantum machine learning field. Also, I do competitive programming even though I am still a beginner.
 <!--
 **DocDoor/DocDoor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
